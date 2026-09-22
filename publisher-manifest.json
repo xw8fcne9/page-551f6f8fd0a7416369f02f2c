@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "b2465d0b24c4adc3c76bf0a1",
+  "owner": "xw8fcne9",
+  "repo": "page-551f6f8fd0a7416369f02f2c",
+  "title": "蝌蚪佬养殖场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "551f6f8fd0a7416369f02f2c",
+      "a": "蝌蚪佬养殖场",
+      "b": "机场官网线路发布页",
+      "entity": "蝌蚪佬养殖场",
+      "brand": "蝌蚪佬养殖场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "efd517e73a6ae361fc408f69d79b02550250f435bc07980f9d72f284219ab67d",
+      "content": {
+        "primary_entity": "蝌蚪佬养殖场",
+        "keyword1": "蝌蚪佬养殖场",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比提供清晰内容。蝌蚪佬养殖场基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并内置 IPLC 专线；团队版每月 1000GB、支持 20 台设备。用户可按设备数量与流量需求选择，查看订阅周期后完成配置。",
+          "AI_HERO_SUBTITLE": "设备与套餐简明选择",
+          "AI_HERO_INTRO": "蝌蚪佬养殖场提供按月订阅的流量套餐，支持多设备同时在线。根据个人或团队设备数量、月流量需求对比基础版、旗舰版与团队版，选择后参考客户端配置说明完成订阅导入。",
+          "AI_VISUAL_TITLE": "蝌蚪佬养殖场套餐",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 流量，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 300GB，含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版 1000GB，支持 20 台设备",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURES_INTRO": "根据设备数量与月流量需求选择合适套餐，按年付可享优惠价格。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台设备，团队版支持 20 台设备，按同时在线数量匹配。",
+          "AI_FEATURE_TITLE_2": "流量与线路层级",
+          "AI_FEATURE_TEXT_2": "基础版提供 100GB 普通线路节点池，旗舰版提供 300GB 全节点原生流媒体与 IPLC 专线，团队版提供 1000GB VIP 专属高带宽节点。",
+          "AI_FEATURE_TITLE_3": "订阅周期与年付",
+          "AI_FEATURE_TEXT_3": "支持月付与年付，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，按需选择周期。",
+          "AI_CLIENTS_TITLE": "客户端与设备配置",
+          "AI_CLIENTS_INTRO": "根据设备类型选择对应客户端，参考订阅导入说明完成配置。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "对比基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按设备数量与流量需求选择。",
+          "AI_GUIDE_TITLE": "选择与配置步骤",
+          "AI_GUIDE_INTRO": "确认设备数量与月流量需求，选定套餐后在客户端中导入订阅链接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，对比基础版、旗舰版与团队版，确定订阅周期。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端版本，查看套餐支持的设备数量与线路类型。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在所选客户端中导入订阅链接，依照客户端文档完成节点与代理设置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与套餐周期。",
+          "AI_FAQ_QUESTION_1": "套餐之间主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版 100GB 流量、3 台设备、普通线路；旗舰版 300GB 流量、5 台设备、含 IPLC 专线与流媒体解锁；团队版 1000GB 流量、20 台设备、VIP 高带宽节点。",
+          "AI_FAQ_QUESTION_2": "支持多少台设备同时使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台设备，团队版支持 20 台设备同时在线。",
+          "AI_FAQ_QUESTION_3": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_3": "选择合适的客户端，将订阅链接粘贴到客户端的订阅导入位置，保存后更新节点列表即可。具体步骤参考客户端文档。",
+          "AI_FAQ_QUESTION_4": "年付是否更划算？",
+          "AI_FAQ_ANSWER_4": "基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，相比按月支付更优惠，可按长期需求选择。",
+          "AI_FAQ_QUESTION_5": "流量用完后如何处理？",
+          "AI_FAQ_ANSWER_5": "流量用尽后，可根据需要升级到更高流量套餐，或等待下个计费周期流量重置。",
+          "AI_CLOSING_TITLE": "选对套餐轻松配置",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定套餐，参考客户端文档完成订阅导入即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mkjkm.cn",
+    "host": "mkjkm.cn"
+  },
+  "file_hashes": {
+    "index.html": "540e3d2aa16fd163729a8c1b023e319209d339ec8f46275223fccf108f688c4b",
+    "sitemap.xml": "688a245bcce980d3f2f9656abd4220eab1f6740fa72d058a9b82ac2491d562ea",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "56f0c761d092a9465b0da7eecf349bbe0fcbd3462d1b9f36e355f31604998d6f",
+    "robots.txt": "3e45ba92f85854d3d1ea73a18cb2c0615f6d8c029199398b99a23f8a2863b167",
+    "ee90e40fafa572cb802ca116995f3748.txt": "b295943cd47a4c7ad8c4156055784366d6516e94f0b5aebf61ea999df2b537dd"
+  },
+  "revision": "0fd639b700cfed2db2c60de9bdf11e3656992959ff3824d45b8f847634ec28c6"
+}
